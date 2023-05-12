@@ -1,0 +1,12 @@
+.nav {
+   position: flex;
+   flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    color:black;
+}
+
+body {
+    background-color: #65a9ee;
+}
